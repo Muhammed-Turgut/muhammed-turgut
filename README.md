@@ -2,10 +2,10 @@
 <h3 align="center">I am a Mobile Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mobil+uygulama+geliştiriyorum;Java%2C+Kotlin+ve+Android" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I am+developing a+mobile+application;Java%2C+Kotlin+ve+Android" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Hakkımda:</h3>
+<h3 align="left">About:</h3>
 <p align="left">
  Hello! I am Muhammed, a developer working on mobile application development. I develop Android applications using Java and Kotlin languages. My passion for technology and producing new projects leads me to explore more every day.
 </p>
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
+<h3 align="left">Languages ​​and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
@@ -33,7 +33,3 @@
   </a>
 </p>
 
-<style>
-  img[src*="kotlinlang-icon"] {
-    animation: rainbow 3s infinite;
-  }
