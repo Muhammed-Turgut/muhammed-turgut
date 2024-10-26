@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages I Use the Most:</h3>
-<p align="left">
+<h3 align="center">Languages I Use the Most:</h3>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-turgut&layout=compact&langs_count=8&theme=tokyonight" alt="muhammed-turgut's Top Languages" />
 </p>
