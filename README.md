@@ -35,11 +35,4 @@
     animation: rainbow 3s infinite;
   }
 
-  @keyframes rainbow {
-    0% { filter: drop-shadow(0 0 5px rgb(255, 0, 0)); }
-    25% { filter: drop-shadow(0 0 5px rgb(0, 255, 0)); }
-    50% { filter: drop-shadow(0 0 5px rgb(0, 0, 255)); }
-    75% { filter: drop-shadow(0 0 5px rgb(255, 255, 0)); }
-    100% { filter: drop-shadow(0 0 5px rgb(255, 0, 255)); }
-  }
-</style>
+ 
