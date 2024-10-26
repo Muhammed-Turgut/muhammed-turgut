@@ -12,7 +12,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" align="left" width="50%">
+    <td valign="top" align="left" width="33%">
       <h3>Contact Me:</h3>
       <p align="left">
         <a href="https://www.linkedin.com/in/muhammed-turgut/" target="blank">
@@ -26,7 +26,7 @@
     <td valign="top" align="center" width="1%">
       <hr style="border: 1px solid #ccc; height: 100px; margin: 0;">
     </td>
-    <td valign="top" align="left" width="50%">
+    <td valign="top" align="left" width="33%">
       <h3>Languages and Tools:</h3>
       <p align="left">
         <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -40,10 +40,14 @@
         </a>
       </p>
     </td>
+    <td valign="top" align="center" width="1%">
+      <hr style="border: 1px solid #ccc; height: 100px; margin: 0;">
+    </td>
+    <td valign="top" align="left" width="33%">
+      <h3>Languages I Use the Most:</h3>
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-turgut&layout=compact&langs_count=8&theme=tokyonight" alt="muhammed-turgut's Top Languages" />
+      </p>
+    </td>
   </tr>
 </table>
-
-<h3 align="left">Languages I Use the Most:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-turgut&layout=compact&langs_count=8&theme=tokyonight" alt="muhammed-turgut's Top Languages" />
-</p>
