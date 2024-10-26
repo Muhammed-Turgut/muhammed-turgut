@@ -12,7 +12,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" align="left" width="33%">
+    <td valign="top" align="left" width="35%">
       <h3>Contact Me:</h3>
       <p align="left">
         <a href="https://www.linkedin.com/in/muhammed-turgut/" target="blank">
@@ -24,29 +24,29 @@
       </p>
     </td>
     <td valign="top" align="center" width="1%">
-      <hr style="border: 1px solid #ccc; height: 100px; margin: 0;">
+      <hr style="border: 1px solid #ccc; height: 150px; margin: 0;">
     </td>
-    <td valign="top" align="left" width="33%">
+    <td valign="top" align="left" width="35%">
       <h3>Languages and Tools:</h3>
       <p align="left">
         <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
         </a>
         <a href="https://www.java.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
         </a>
         <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" style="filter: drop-shadow(0 0 5px rgb(255, 0, 255));"/>
+          <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50" style="filter: drop-shadow(0 0 5px rgb(255, 0, 255));"/>
         </a>
       </p>
     </td>
     <td valign="top" align="center" width="1%">
-      <hr style="border: 1px solid #ccc; height: 100px; margin: 0;">
+      <hr style="border: 1px solid #ccc; height: 150px; margin: 0;">
     </td>
-    <td valign="top" align="left" width="33%">
+    <td valign="top" align="left" width="35%">
       <h3>Languages I Use the Most:</h3>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-turgut&layout=compact&langs_count=8&theme=tokyonight" alt="muhammed-turgut's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-turgut&layout=compact&langs_count=8&theme=tokyonight" alt="muhammed-turgut's Top Languages" width="100%" />
       </p>
     </td>
   </tr>
