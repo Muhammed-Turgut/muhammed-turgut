@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋, ben Muhammed Turgut</h1>
-<h3 align="center">Mobil Geliştiriciyim</h3>
+<h1 align="center">Hi 👋, I am Muhammed Turgut</h1>
+<h3 align="center">I am a Mobile Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mobil+uygulama+geliştiriyorum;Java%2C+Kotlin+ve+Android" alt="Typing SVG" />
@@ -7,10 +7,10 @@
 
 <h3 align="left">Hakkımda:</h3>
 <p align="left">
-  Merhaba! Ben Muhammed, mobil uygulama geliştirme üzerine çalışan bir geliştiriciyim. Java ve Kotlin dillerini kullanarak Android uygulamaları geliştiriyorum. Teknolojiye ve yeni projeler üretmeye olan tutkum, beni her gün daha fazla keşfetmeye yönlendiriyor.
+ Hello! I am Muhammed, a developer working on mobile application development. I develop Android applications using Java and Kotlin languages. My passion for technology and producing new projects leads me to explore more every day.
 </p>
 
-<h3 align="left">Benimle iletişime geçin:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammed-turgut/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
