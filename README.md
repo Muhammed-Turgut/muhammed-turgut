@@ -32,3 +32,8 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" style="filter: drop-shadow(0 0 5px rgb(255, 0, 255));"/>
   </a>
 </p>
+
+<h3 align="left">Languages I Use the Most:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-turgut&layout=compact&langs_count=8&theme=tokyonight" alt="muhammed-turgut's Top Languages" />
+</p>
