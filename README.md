@@ -1,50 +1,54 @@
 <h1 align="center">Hi 👋, I am Muhammed Turgut</h1>
-<h3 align="center">I am a Mobile Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+developing+mobile+applications;Java%2C+Kotlin+and+Android" alt="Typing SVG" />
-</p>
+###
 
-<h3 align="left">About Me:</h3>
-<p align="left">
- Hello! I am Muhammed, a developer working on mobile application development. I develop Android applications using Java and Kotlin. My passion for technology and creating new projects drives me to explore and learn more every day.
-</p>
+<h5 align="left">About Me:<br>Hello! I am Muhammed, a developer working on mobile application development. I develop Android applications using Java and Kotlin. My passion for technology and creating new projects drives me to explore and learn more every day.</h5>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Contact Me Section -->
-  <div style="flex: 1;">
-    <h3 align="left">Contact Me:</h3>
-    <p align="left">
-      <a href="https://www.linkedin.com/in/muhammed-turgut/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-      <a href="https://github.com/muhammed-turgut" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-      </a>
-    </p>
-  </div>
+###
 
-  <!-- Vertical Line -->
-  <div style="width: 1px; background-color: #ccc; height: 100px; margin: 0 20px;"></div>
-
-  <!-- Languages and Tools Section -->
-  <div style="flex: 1;">
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-      </a>
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-      </a>
-      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" style="filter: drop-shadow(0 0 5px rgb(255, 0, 255));"/>
-      </a>
-    </p>
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-turgut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammed-turgut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h3 align="left">Languages I Use the Most:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-turgut&layout=compact&langs_count=8&theme=tokyonight" alt="muhammed-turgut's Top Languages" />
-</p>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@Kodadii" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammed-turgut/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/23492143/muhammed-turgut" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src=""  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/muhammed-turgut/muhammed-turgut/output/snake.svg" alt="Snake animation" />
+
+###
