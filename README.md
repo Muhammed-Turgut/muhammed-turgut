@@ -49,14 +49,3 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="150" src=""  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/muhammed-turgut/muhammed-turgut/output/snake.svg" alt="Snake animation" />
-
-###
