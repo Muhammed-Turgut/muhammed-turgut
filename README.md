@@ -49,3 +49,11 @@
   </a>
 </div>
 
+###
+
+<p align="center">
+  <b><i>"Namazım, ibadetlerim, hayatım ve ölümüm, alemlerin Rabbi Allah içindir."</i></b><br/>
+  <sub>– En’âm 6:162</sub>
+</p>
+
+
