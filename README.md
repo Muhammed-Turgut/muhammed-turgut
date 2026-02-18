@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I am Muhammed Turgut</h1>
+<h1 align="center">Hi, I am Muhammed Turgut</h1>
 
 ###
 
-<h5 align="left">About Me:<br>Hello! I am Muhammed, a developer working on mobile application development. I develop Android applications using Java and Kotlin. My passion for technology and creating new projects drives me to explore and learn more every day.</h5>
+<h5 align="left">
+About Me:<br>
+Hello! I am Muhammed, a third-year Computer Engineering student with a strong focus on mobile application development and embedded systems. I develop modern and user-centered mobile applications using Kotlin and Flutter, transforming user experiences designed in Figma into fully functional and efficient applications. 
+
+I am deeply interested in embedded systems and software-hardware integration. On the hardware side, I actively work with C, Arduino, and ESP32 to build efficient and reliable embedded solutions. I enjoy combining aesthetic design with strong technical depth to deliver complete end-to-end projects. 
+
+Additionally, I am proficient in using version control systems such as Git and GitHub, and I have experience with SQL, Microsoft Excel, and Power BI for data analysis, reporting, and visualization. My passion for technology and continuous learning motivates me to improve myself every day and explore new innovations.
+</h5>
+
 
 ###
 
@@ -16,15 +24,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
