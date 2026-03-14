@@ -70,7 +70,6 @@
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-@Kodadii-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kodadii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed_Turgut-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-turgut/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-muhammed--turgut-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23492143/muhammed-turgut)
 
